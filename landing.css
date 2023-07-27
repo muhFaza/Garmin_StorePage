@@ -21,7 +21,8 @@ body {
     @media screen and (min-width: 1300px){
         width: 988px;
         height: 21.5px;
-        margin: 10 auto;
+        margin: 0 auto;
+        margin-top: 10px;
     }
 
     #headerLogo {
